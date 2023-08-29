@@ -13,6 +13,6 @@
 - 💬 Ask me about anything 😎
 - 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io }
 - 📞 WhatsApp Dail: +91-9509957594 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
