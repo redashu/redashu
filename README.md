@@ -11,10 +11,7 @@
 - 🌱 I’m currently learning AI & WebApps 
 - 👯 I’m looking to collaborate on Kubernetes custom Resources Development
 - 💬 Ask me about anything 😎
-- 📫 Get in touch with me:
-     <ul>
-       <li> 📫 Email</li> [Send me an Email!!](mailto:ashutoshh@linux.com)
-     </ul>
+- 📫 Get in touch with me Via Email: [Send me an Email!!](mailto:ashutoshh@linux.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
