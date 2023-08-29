@@ -1,5 +1,7 @@
 ### Hi there 👋
-# 🇮🇳 Ashutosh Singh is who I go by  🐳☸️👾☁️
+# 🇮🇳 Ashutosh Singh is who I go by  
+## Technology Portfolio
+🐳☸️👾☁️🐍☕️🌍🏗️🔧 🐘
 
 <!-- 
 **redashu/redashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
