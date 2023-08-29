@@ -16,5 +16,16 @@
 - 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io }
 - 📞 WhatsApp Dail: +91-9509957594 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Part-time Bakwas krna
+
+### Connect with me
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
+[<img height="30" src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][GitHub]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<br />
+<hr />
+
 
