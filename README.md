@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on Kubernetes custom Resources Development
 - 💬 Ask me about anything 😎
 - 📫 Get in touch with me:
-     <ol>
-       <li>Email </li>
-     </ol>
+     <ul>
+       <li> 📫 Email</li> [Send me an Email!!](mailto:ashutoshh@linux.com)
+     </ul>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
