@@ -59,6 +59,12 @@
 <hr />
 
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=redashu&show_icons=true&theme=radical&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=redashu)
+![Stars](https://img.shields.io/github/stars/redashu/your-repo-name?style=social) ![Forks](https://img.shields.io/github/forks/redashu/your-repo-name?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/redashu/k8s)
+![Gists](https://img.shields.io/github/gists/redashu)
+
+
 
 
 
