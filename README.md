@@ -24,7 +24,7 @@
 <br />
 <hr />
 
-### Languages and Libraries
+### Portfolio Showcase 
 
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/fluency/50/000000/matlab.png/" />
