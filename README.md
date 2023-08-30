@@ -33,6 +33,7 @@
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<br/>
 <hr/>
 <img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt="Kubernetes" width="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
