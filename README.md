@@ -35,6 +35,7 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br/>
 <hr/>
+<marquee>
 <img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt="Kubernetes" width="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 <img align="left" alt="OpenShift" width="40px" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" />
@@ -44,7 +45,7 @@
 <img align="left" alt="AWS" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
 <img align="left" alt="Oracle Cloud" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
 
-
+</marquee>
 
 
 <br />
