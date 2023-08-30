@@ -24,4 +24,17 @@
 <br />
 <hr />
 
+### Languages and Libraries
+
+<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/fluency/50/000000/matlab.png/" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/mysql--v1.png" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<br />
+<br />
+<hr />
 
