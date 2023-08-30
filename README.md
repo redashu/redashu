@@ -1,6 +1,7 @@
 ## Hello and welcome 👋
 ## 🇮🇳 Ashutosh Singh is who I go by  🐳☸️👾☁️🐍☕️🌍🏗️🔧 🐘
-
+### Live Monitoring 
+![Profile Views](https://komarev.com/ghpvc/?username=redashu)
 <!-- 
 **redashu/redashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -59,7 +60,7 @@
 <hr />
 
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=redashu&show_icons=true&theme=radical&count_private=true)
-![Profile Views](https://komarev.com/ghpvc/?username=redashu)
+
 
 
 
