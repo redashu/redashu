@@ -14,12 +14,13 @@
 - 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io }
 - 📞 WhatsApp Dail: +91-9509957594 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Part-time Bakwas krna
+- ⚡ Fun fact: Bakwas | Playing outdoor games | Travel | Breathing Tech
 
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshh/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshh@linux.com)
+![Travel Enthusiast](https://img.shields.io/badge/travel%20enthusiast-%230088CC.svg?&style=for-the-badge)
 <br />
 <hr />
 
