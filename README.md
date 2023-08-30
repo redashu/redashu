@@ -51,7 +51,7 @@
 <br />
 <hr />
 ### Stats
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mk-gurucharan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-gurucharan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=ffftheme=graywhite" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=redashu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redashu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=ffftheme=graywhite" />
 <br />
 <br />
 <hr />
