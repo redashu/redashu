@@ -9,7 +9,7 @@
 ### My Metadata
 
 - 🔭 I’m currently working on Assorted Open Source Tech
-- 🌱 I’m currently learning AI & WebApps 
+- 🌱 I’m currently practicing AI & WebApps 
 - 👯 I’m looking to collaborate on Kubernetes custom Resources Development
 - 💬 Ask me about anything 😎
 - 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io }
