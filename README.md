@@ -9,9 +9,9 @@
 ### My Metadata
 
 - 🔭 I’m currently working on Assorted Open Source Tech
-- 🌱 I’m currently practicing AI & WebApps 
+- 🌱 I’m heading towards practicing AI & WebApps 
 - 👯 I’m looking to collaborate on Kubernetes custom Resources Development
-- 💬 Ask me about anything 😎
+- 💬 Ask me about anything in Techspace 😎
 - 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io }
 - 📞 WhatsApp Dial: +91-9509957594 
 - 😄 Pronouns: He/Him
