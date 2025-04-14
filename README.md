@@ -1,5 +1,6 @@
 ## Hello and welcome 🙏
 ## 🇮🇳 Ashutoshh Singh is who I go by  🐳☸️👾☁️🐍☕️🌍🏗️🔧 🐘
+## RHCA | CKS | CKAD | CKA | Databricks Certified Data Engineer 
 ### Live Monitoring 
 ![Profile Views](https://komarev.com/ghpvc/?username=redashu)
 <!-- 
@@ -12,10 +13,22 @@
 - 🌱 I’m heading towards practicing AI & WebApps 
 - 👯 I’m looking to collaborate on Kubernetes custom Resources Development
 - 💬 Ask me about anything in Techspace 😎
-- 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io }
+- 📫 SMTP Connect: [Send me an Email!!] { ashutoshh@linux.com || ashutoshh@delvex.io | ashutoshh.singh@databricks.com }
 - 📞 WhatsApp Dial: +91-9509957594 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Bakwas | Playing outdoor games | Travel | Breathing Tech
+
+# 🌟 **Fun Fact About Me**  
+
+### **"Bakwas Mode: Activated!"** 🚀  
+
+When I'm not:  
+- ☀️ Getting sunburned while *"dominating"* outdoor games (spoiler: I lose).  
+- 🗺️ Getting lost while *"traveling"* (Google Maps betrayed me… *again*).  
+- 💻 Breathing tech like it’s oxygen (*"Wait, you don’t compile your coffee?"*).  
+
+…I’m probably **professional-level procrastinating** 🎮📦 *(Uninstalled games? Reinstalled. Unopened packages? Now a decor trend.)*  
+
+**#ChaosCoordinator | #BugMakerFirstThenFixer | #LifeNeedsMoreUndoButtons**  
 
 
 ### Connect with me
