@@ -26,7 +26,7 @@ When I'm not:
 - 🗺️ Getting lost while *"traveling"* (Google Maps betrayed me… *again*).  
 - 💻 Breathing tech like it’s oxygen (*"Wait, you don’t compile your coffee?"*).  
 
-…I’m probably **professional-level procrastinating** 🎮📦 *(Uninstalled games? Reinstalled. Unopened packages? Now a decor trend.)*  
+…I’m probably **professional-level procrastinator** 🎮📦 *(Uninstalled games? Reinstalled. Unopened packages? Now a decor trend.)*  
 
 **#ChaosCoordinator | #BugMakerFirstThenFixer | #LifeNeedsMoreUndoButtons**  
 
