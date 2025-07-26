@@ -19,7 +19,7 @@
 
 # 🌟 **Fun Fact About Me**  
 
-### **"Bakwas Mode: Activated!"** 🚀  
+### **"Bakchodi Mode: Activated!"** 🚀  
 
 When I'm not:  
 - ☀️ Getting sunburned while *"dominating"* outdoor games (spoiler: I lose).  
