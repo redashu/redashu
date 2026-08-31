@@ -1,6 +1,6 @@
 ## Hello and welcome 🙏
 ## 🇮🇳 Ashutoshh Singh is who I go by  🐳☸️👾☁️🐍☕️🌍🏗️🔧 🐘
-## RHCA | CKS | CKAD | CKA | Databricks Certified Data Engineer 
+## RHCA | CKS | CKAD | CKA | Databricks Certified Instructor
 ### Live Monitoring 
 ![Profile Views](https://komarev.com/ghpvc/?username=redashu)
 <!-- 
